@@ -8,5 +8,6 @@ solution1/*
 !solution1/directives.tcl
 *.xml
 *.app
+!vivado_hls.app
 .cproject
 .project
